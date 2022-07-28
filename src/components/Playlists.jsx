@@ -58,7 +58,7 @@ const Container = styled.div`
                 cursor: pointer;
                 transition: 0.3s ease-in-out;
                 &:hover{
-                    color: white;
+                    color: green;
                 }
             }
         }
