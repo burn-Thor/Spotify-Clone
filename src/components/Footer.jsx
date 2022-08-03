@@ -6,6 +6,7 @@ export default function Footer() {
   return (
     <Container>
       <CurrentTrack/>
+      <PlayerControls/>
     </Container>
   )
 }
